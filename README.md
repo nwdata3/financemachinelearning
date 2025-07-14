@@ -9,7 +9,7 @@ This project builds a machine learning model to classify the direction of Salesf
 - `451_pa1_technical_report_RH.pdf`: Final research report
 - `requirements.txt`: (optional) Dependencies list
 
-1. Clone this repository:
+1. Clone this repository: https://github.com/nwdata3/financemachinelearning.git
 2. Open the `.ipynb` file in Jupyter or VS Code.
 3. Run all cells. Ensure data is pulled via `yfinance`.
 
