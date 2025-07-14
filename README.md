@@ -1,5 +1,3 @@
-# financemachinelearning
-
 # MSDS 451 Programming Assignment 1: Predicting CRM Return Direction
 
 This project builds a machine learning model to classify the direction of Salesforce (CRM) stock returns using lagged price features and volume.
